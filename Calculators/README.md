@@ -6,4 +6,6 @@ Simple Calc [Python](https://github.com/Roshni0/Mathematical/blob/master/Calcula
 
 Simple Calc [C++](https://github.com/Roshni0/Mathematical/blob/master/Calculators/simpleCalc.cpp)
 
+Harder Calc [C++](https://github.com/Roshni0/Mathematical/blob/master/Calculators/higherCalc.cpp)
+
 Rationalise Decimal [C++](https://github.com/Roshni0/Mathematical/blob/master/Calculators/rationaliseDecimal.cpp)
