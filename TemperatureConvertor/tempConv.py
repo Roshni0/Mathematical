@@ -1,4 +1,4 @@
-temp = input("Input the  temperature you like to convert? (e.g., 45F, 102C etc.) : ")
+temp = input("Input the  temperature you like to convert? (e.g. 45F or 31C):") #convert between f and c
 deg = int(temp[:-1])
 initial = temp[-1]
 if initial.upper() == "C":
