@@ -1,4 +1,4 @@
-#include<stdio.h> /*change temp from f to c*/
+#include<stdio.h> /*change temp from f to c*/ 
 int main(){
   int F=10;
   int C;
