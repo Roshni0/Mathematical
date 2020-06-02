@@ -7,7 +7,7 @@ if initial.upper() == "C":
 elif initial.upper() == "F":
   result = int(round((deg - 32) * 5 / 9))
   fin = "Celsius"
-else:
+else: 
   print("Input proper convention.")
   quit()
 print("The temperature in", fin, "is", result, "degrees.")
