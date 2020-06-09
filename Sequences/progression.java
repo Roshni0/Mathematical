@@ -12,12 +12,10 @@ public class Progression {
     advance( ); // this protected call is responsible for advancing the current value
     return answer;
   }
-
   /∗∗ Advances the current value to the next value of the progression. ∗/
   protected void advance( ) {
    current++;
   }
-
   /∗∗ Prints the next n values of the progression, separated by spaces. ∗/
   public void printProgression(int n) {
     System.out.print(nextValue( )); // print first value without leading space
