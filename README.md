@@ -2,7 +2,7 @@
 Exploring developing solutions to problems that are mathematically based.
 
 ## Birthday Paradox
-Solved in [Python](https://github.com/Roshni0/Mathematical/blob/master/Birthday%20Paradox/paradox.py)
+Problem solved in [Python](https://github.com/Roshni0/Mathematical/blob/master/Birthday%20Paradox/paradox.py)
 
 ## Calculators
 Simple Calculator designed in [Python](https://github.com/Roshni0/Mathematical/blob/master/Calculators/simple.py)
