@@ -1,5 +1,4 @@
 #include<stdio.h>  
-  
 long factorial(int n)  
 {  
   if (n == 0)  
@@ -7,7 +6,6 @@ long factorial(int n)
   else  
     return(n * factorial(n-1));  
 }  
-   
 void main()  
 {  
   int number;  
